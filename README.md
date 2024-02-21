@@ -1,1 +1,1 @@
-Uses https://blog.mikeswanson.com/spatial and inspirated by ffmpeg-static-electron
+Uses https://blog.mikeswanson.com/spatial and inspired by ffmpeg-static-electron
