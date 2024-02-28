@@ -28,4 +28,13 @@ var spatialPath = path.join(
   platform === 'win' ? 'spatial.exe' : 'spatial'
 )
 
+var spatialImgPath = path.join(
+  __dirname,
+  'bin',
+  platform,
+  arch,
+  platform === 'win' ? 'run_picCombiner.exe' : 'run_picCombiner'
+)
+
 exports.path = spatialPath;
+exports.imgPath = spatialImgPath;
