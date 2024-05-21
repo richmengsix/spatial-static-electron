@@ -1,1 +1,3 @@
-Uses https://blog.mikeswanson.com/spatial and inspired by ffmpeg-static-electron
+Uses https://blog.mikeswanson.com/spatial and https://github.com/studiolanes/vision-utils
+
+Inspired by ffmpeg-static-electron
